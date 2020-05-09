@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35078740-87d2-4f63-9a83-3438eaa8cdb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZHfMm9xpnZ5U3o2SQzXBHN2Kt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/bif" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rory\PycharmProjects\bif_reader\test\bif" />
+      <recent name="C:\Users\rory\PycharmProjects\bif_reader" />
+      <recent name="C:\Users\rory\PycharmProjects\bif_reader\test\key" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for KeyReaderTest.KeyReaderTest">
+    <configuration name="Unittests for BifReaderTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="bif_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BifReaderTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for BifReaderTest.BifReaderTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="bif_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BifReaderTest.BifReaderTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for BifReaderTest.BifReaderTest.test_entries" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="bif_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BifReaderTest.BifReaderTest.test_entries&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for KeyReaderTest.KeyReaderTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="bif_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;KeyReaderTest.KeyReaderTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for KeyReaderTest.KeyReaderTest.test_entries" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="bif_reader" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;KeyReaderTest.KeyReaderTest.test_entries&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for KeyReaderTest.KeyReaderTest" />
+        <item itemvalue="Python tests.Unittests for BifReaderTest.BifReaderTest" />
+        <item itemvalue="Python tests.Unittests for KeyReaderTest.KeyReaderTest.test_entries" />
+        <item itemvalue="Python tests.Unittests for BifReaderTest" />
+        <item itemvalue="Python tests.Unittests for BifReaderTest.BifReaderTest.test_entries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35078740-87d2-4f63-9a83-3438eaa8cdb3" name="Default Changelist" comment="" />
+      <created>1588832797309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588832797309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="94" width="1349" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588841032894">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="94" y="94" width="1349" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.864@0.0.1536.864" timestamp="1588841032894" />
+    <state x="536" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588870414581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="536" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1588870414581" />
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state width="1515" height="277" key="GridCell.Tab.0.center" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state width="1515" height="277" key="GridCell.Tab.0.left" timestamp="1589013866747">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589013866747" />
+    <state width="1515" height="277" key="GridCell.Tab.0.right" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state width="1515" height="277" key="GridCell.Tab.1.center" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state width="1515" height="277" key="GridCell.Tab.1.left" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state width="1515" height="277" key="GridCell.Tab.1.right" timestamp="1589013866748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589013866748" />
+    <state x="279" y="76" key="SettingsEditor" timestamp="1588841504073">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588841504073" />
+    <state x="397" y="129" width="742" height="606" key="find.popup" timestamp="1588870151082">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="397" y="129" width="742" height="606" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1588870151082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BifReader.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
