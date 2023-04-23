@@ -14,11 +14,11 @@ BIF file format reader
 
 
 class BifReader:
-    data = []
-    sig = ''
-    resources = []
 
     def __init__(self, filename):
+        self.data = []
+        self.sig = ''
+        self.resources = []
         self.read(filename)
 
     def read(self, filename):
@@ -42,7 +42,6 @@ class BifReader:
             rtype = struct.unpack('H', self.data[offset:offset+2])[0]
             offset += 4  # skip 2-byte type field and 2-byte null padding
             res = BifResource(locator, self.data[roffset:(roffset+rlen)], rtype)
-            print(res)
             self.resources.append(res)
 
     def signature(self):

@@ -131,10 +131,6 @@ class BifResource:
             0x270F: 'key'
         })
 
-    data = []
-    rtype = -1
-    rid = -1
-
     def __init__(self, rid, data, rtype):
         self.rid = rid
         self.data = data

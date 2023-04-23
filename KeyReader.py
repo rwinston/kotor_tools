@@ -70,7 +70,6 @@ class KeyReader:
             offset += 2  # skip 2-byte type field and 2-byte null padding
             print('offset=%s, filenameOffset=%s, filenameLength=%s, fileLength=%s' % (offset, filenameOffset, filenameLength, fileLength))
             res = BifResourceLocator(fileLength, self.data[filenameOffset:filenameOffset+filenameLength].decode('ascii'), locationFlags, i)
-            print(res)
             self.bifResources.append(res)
 
         """
@@ -94,7 +93,6 @@ class KeyReader:
             locator = struct.unpack('I', self.data[offset:offset + 4])[0]
             offset += 4
             resourceLocator = ResourceLocator(resref, rtype, locator)
-            print(resourceLocator)
             self.resources.append(resourceLocator)
 
     def signature(self):
