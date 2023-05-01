@@ -1,7 +1,6 @@
 import struct
 from typing import List
 
-from BifResource import BifResource
 from BifResourceLocator import BifResourceLocator
 from ResourceLocator import ResourceLocator
 
